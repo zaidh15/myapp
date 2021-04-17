@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My Name Is Zaid, I'm From [Jakarta/Indonesia](https://www.google.com/maps/d/u/0/viewer?ie=UTF8&t=h&oe=UTF8&msa=0&mid=1vbsHAWMMoQEBzhb6QxTUZBqDnvM&ll=-6.227818851851578%2C106.83656499999996&z=11)
+My Name Is Zaid Hilmi, I'm From [STT Nurul Fikri](https://www.google.com/maps/place/STT+Terpadu+Nurul+Fikri+-+Kampus+A+(Sekretariat)/@-6.3530041,106.8323443,17z/data=!4m14!1m8!3m7!1s0x2e69ec6b07b68ea5:0x17da46bdf9308386!2sSTT+Terpadu+Nurul+Fikri+-+Kampus+A+(Sekretariat)!8m2!3d-6.3529663!4d106.8324747!14m1!1BCgIgARICCAI!3m4!1s0x2e69ec6b07b68ea5:0x17da46bdf9308386!8m2!3d-6.3529663!4d106.8324747) 4TI02 0110219097
 
 **Social Media**
 ---
